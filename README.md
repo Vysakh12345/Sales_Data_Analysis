@@ -24,11 +24,10 @@ The dataset used for this dashboard includes the following fields:
 - Total Sales  
 - Units Sold  
 
-(Extracted from the data table on page 5 of the report.)
 
 ---
 
-## 🚀 Key Metrics (Page 3 & 4)
+## 🚀 Key Metrics
 According to the dashboard:
 
 - **Total Sales:** 122M  
@@ -42,7 +41,7 @@ These KPIs summarise overall retail performance across 5 years (2020–2024).
 
 ## 🏆 Product Insights
 
-### 🔹 Top 5 Products by Sales (Page 1)
+### 🔹 Top 5 Products by Sales
 - Apple iPhone 14 – 21M  
 - Apple MacBook Air – 20M  
 - Sony Bravia 55" TV – 19M  
@@ -94,7 +93,7 @@ These KPIs summarise overall retail performance across 5 years (2020–2024).
 
 ---
 
-## 📈 Sales Trends (Page 2)
+## 📈 Sales Trends
 The “Sales Trends by Year” line graph shows:
 
 - Sales peak consistently around **0.55M** in multiple periods  
@@ -104,7 +103,7 @@ The “Sales Trends by Year” line graph shows:
 
 ---
 
-## 🛍 Promotion Analysis (Page 2)
+## 🛍 Promotion Analysis
 Average discount offered by promotion categories:
 
 - Weekend Flash Sale – 23K  
@@ -117,7 +116,7 @@ Average discount offered by promotion categories:
 
 ---
 
-## 📊 Profit vs Net Sales (Page 2)
+## 📊 Profit vs Net Sales
 A scatterplot shows an almost perfect positive linear correlation:
 
 - Higher Net Sales always corresponds to higher Profit  
@@ -126,12 +125,12 @@ A scatterplot shows an almost perfect positive linear correlation:
 
 ---
 
-## 🏙 Sales by City (Page 2)
+## 🏙 Sales by City
 A map visual displays distribution across cities (data shown in interactive form in PBIX).
 
 ---
 
-## 🎛 Filters Used in the Dashboard (Page 5)
+## 🎛 Filters Used in the Dashboard
 - Date  
 - Customer Name  
 - Product Name  
